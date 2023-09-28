@@ -1,5 +1,5 @@
 # Домашнее задание к занятию "4.Организация тестирования"# DOM
-![CI](https://github.com/Kutimskii/enviroment/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Kutimskii/ajs-testing/actions/workflows/web.yml/badge.svg)
 
 Правила сдачи задания:
 
