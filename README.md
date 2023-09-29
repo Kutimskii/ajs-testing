@@ -1,5 +1,5 @@
 # Домашнее задание к занятию "4.Организация тестирования"# DOM
-![CI][![Build status](https://ci.appveyor.com/api/projects/status/7dpx5l0dtpwtx683?svg=true)](https://ci.appveyor.com/project/Kutimskii/ajs-testing)
+[![Build status](https://ci.appveyor.com/api/projects/status/7dpx5l0dtpwtx683?svg=true)](https://ci.appveyor.com/project/Kutimskii/ajs-testing)
 
 Правила сдачи задания:
 
